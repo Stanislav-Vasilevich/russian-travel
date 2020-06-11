@@ -1,0 +1,13 @@
+@import url('./__title/lead__title.css');
+@import url('./__subtitle/lead__subtitle.css');
+@import url('./__img/lead__img.css');
+@import url('./__img-map/lead__img-map.css');
+@import url('./__correction/lead__correction.css');
+
+.lead {
+    background-color: #2A2C2F;
+    max-width: 1280px;
+    height: 1061px;
+    color: #FFFFFF;
+    margin: 0 auto;
+}
