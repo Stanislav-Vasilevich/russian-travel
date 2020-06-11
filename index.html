@@ -10,10 +10,16 @@
   <div class="page">
     <header class="header">
       <img src="./images/__logo.svg" class="header__logo" alt="Логотип">
-      <nav class="menu header__menu">
-        <a href="#" class="menu__link autofocus" title="Русская версия сайта">Ru</a>
-        <a href="#" class="menu__link" title="English version of the site">En</a>
-      </nav>
+      <form class="menu">
+        <label for="ru" class="menu__lang">
+          <input type="radio" name="menu__lang-link" id="ru" value="ru" class="menu__lang-link" title="Русская версия сайта" checked>
+          <span>Ru</span>
+        </label>
+        <label for="en" class="menu__lang">
+          <input type="radio" name="menu__lang-link" value="en" id="en" class="menu__lang-link" title="English version of the site">
+          <span>En</span>
+        </label>
+      </form>
     </header>
     <section class="lead">
       <h1 class="lead__title">Путешествия по России</h1>
