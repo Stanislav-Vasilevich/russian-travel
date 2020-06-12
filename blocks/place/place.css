@@ -12,6 +12,10 @@
   margin: 0 0 48px 0;
 }
 
-.place:nth-last-child(1) {
-  margin: 0 0 80px 0;
+.place:last-of-type {
+  margin-bottom: 80px;
 }
+
+
+
+

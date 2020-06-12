@@ -1,0 +1,14 @@
+@import url('./__overlay/cover__overlay.css');
+@import url('./__title/cover__title.css');
+@import url('./__subtitle/cover__subtitle.css');
+
+.cover {
+  background-color: #2A2C2F;
+  font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+  width: 1184px;
+  height: 740px;
+  color: #FFF;
+  background-image: url('../../../images/__background/cover__background.jpg');
+  background-size: cover;
+  margin: 12px auto 92px;
+}

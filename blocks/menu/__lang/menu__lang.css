@@ -1,5 +1,4 @@
 .menu__lang {
-  color: #FFFFFF;
   cursor: pointer;
   margin-left: 18px;
   line-height: 28px;
@@ -11,6 +10,5 @@
 }
 
 .menu__lang span:hover {
-  color: #FFFFFF;
   opacity: .8;
 }
