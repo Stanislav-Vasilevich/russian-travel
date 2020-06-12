@@ -1,0 +1,13 @@
+@import url('../intro/__title/intro__title.css');
+@import url('../intro/__text/intro__text.css');
+@import url('../intro/__list/intro__list.css');
+@import url('../intro/__block-width/intro__block-width.css');
+
+.intro {
+    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+    background-color: #2A2C2F;
+    max-width: 1280px;
+    height: 520px;
+    margin: 0 auto;
+    color: #FFFFFF;
+}
