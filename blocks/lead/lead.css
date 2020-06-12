@@ -1,8 +1,8 @@
 @import url('./__title/lead__title.css');
 @import url('./__subtitle/lead__subtitle.css');
-@import url('./__img/lead__img.css');
-@import url('./__img-map/lead__img-map.css');
-@import url('./__correction/lead__correction.css');
+@import url('./__image/lead__image.css');
+@import url('./__image-travel/lead__image-travel.css');
+@import url('./__caption/lead__caption.css');
 
 .lead {
     background-color: #2A2C2F;
