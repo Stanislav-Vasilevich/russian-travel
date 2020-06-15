@@ -5,9 +5,9 @@
 @import url('./__caption/lead__caption.css');
 
 .lead {
-    background-color: #2A2C2F;
-    max-width: 1280px;
-    height: 1061px;
-    color: #FFFFFF;
-    margin: 0 auto;
+  background-color: #2A2C2F;
+  max-width: 1280px;
+  height: 1061px;
+  color: #FFFFFF;
+  margin: 0 auto;
 }

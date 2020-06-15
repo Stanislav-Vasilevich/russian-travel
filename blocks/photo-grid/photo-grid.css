@@ -2,11 +2,11 @@
 
 .photo-grid {
   background-color: #2A2C2F;
-  height: 763px;
+  width: 1184px;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 213px);
   grid-gap: 16px 16px;
-  padding: 60px 0 0 0;
-  margin: 0 auto 92px;
+  padding: 0;
+  margin: 92px auto 92px;
 }

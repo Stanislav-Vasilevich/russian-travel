@@ -1,11 +1,12 @@
 @import url('./__logo/header__logo.css');
+@import url('./__menu/header__menu.css');
 
 .header {
-    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
-    background-color: #2A2C2F;
-    max-width: 1280px;
-    height: 80px;
-    display: flex;
-    justify-content: space-between;
-    margin: 0 auto;
+  font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+  background-color: #2A2C2F;
+  max-width: 1280px;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
 }

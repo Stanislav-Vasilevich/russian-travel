@@ -4,10 +4,10 @@
 @import url('../intro/__block-width/intro__block-width.css');
 
 .intro {
-    font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
-    background-color: #2A2C2F;
-    max-width: 1280px;
-    height: 520px;
-    margin: 0 auto;
-    color: #FFFFFF;
+  font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+  background-color: #2A2C2F;
+  max-width: 1280px;
+  height: 520px;
+  margin: 0 auto;
+  color: #FFFFFF;
 }
