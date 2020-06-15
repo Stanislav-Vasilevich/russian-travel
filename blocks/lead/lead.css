@@ -5,8 +5,14 @@
 @import url('./__caption/lead__caption.css');
 
 .lead {
+  max-width: 984px;
   background-color: #2A2C2F;
-  max-width: 1280px;
   color: #FFFFFF;
   margin: 0 auto;
+}
+
+@media (max-width: 1024px) {
+  .lead {
+    max-width: 928px;
+  }
 }

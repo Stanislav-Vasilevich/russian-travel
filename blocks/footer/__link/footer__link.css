@@ -10,24 +10,11 @@
   opacity: .8;
 }
 
-@media (max-width: 1024px) {
-  .footer__link {
-  
-  }
-}
-
-@media (max-width: 768px) {
-  .footer__link {
-    
-  }
-}
-
 @media (max-width: 320px) {
   .footer__link {
     font-size: 24px;
     line-height: 24px;
-    margin-left: 16px;
-    margin-bottom: 32px;
+    margin: 0 0 32px 0;
   }
 
   .footer__link:last-of-type {

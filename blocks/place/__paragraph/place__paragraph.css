@@ -5,26 +5,34 @@
   margin: 0 0 24px 0;
 }
 
-@media all and (max-width: 1024px) {
+@media (max-width: 1024px) {
   .place__paragraph {
     width: 456px;
   }
 }
 
-@media all and (max-width: 768px) {
+@media (max-width: 768px) {
   .place__paragraph {
     width: 352px;
     font-size: 16px;
     line-height: 26px;
   }
+
+  .place__paragraph:nth-of-type(2n) {
+    margin-bottom: 0;
+  }
+
+  .place__paragraph:last-of-type {
+    margin-bottom: 0;
+  }
 }
 
-@media all and (max-width: 320px) {
+@media (max-width: 320px) {
   .place__paragraph {
     width: 288px;
     font-size: 16px;
     line-height: 26px;
-    padding: 0 0 24px 0;
+    padding: 0;
     margin: 0 auto;
   }
 }

@@ -3,7 +3,7 @@
 @import url('./__menu/footer__menu.css');
 
 .footer {
-  width: 1184px;
+  max-width: 1184px;
   height: 66px;
   background-color: #2A2C2F;
   color: #FFF;
@@ -16,13 +16,13 @@
 
 @media (max-width: 1024px) {
   .footer {
-  
+    width: 1024px;
   }
 }
 
 @media (max-width: 768px) {
   .footer {
-    
+    max-width: 768px;
   }
 }
 
