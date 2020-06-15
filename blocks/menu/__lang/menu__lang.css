@@ -1,6 +1,6 @@
 .menu__lang {
   cursor: pointer;
-  margin-left: 18px;
+  margin: 0 0 0 18px;
   line-height: 28px;
   font-size: 24px;
 }
@@ -11,4 +11,11 @@
 
 .menu__lang span:hover {
   opacity: .8;
+}
+
+@media (max-width: 320px) {
+  .menu__lang {
+    font-size: 18px;
+    line-height: 24px;  
+  }
 }

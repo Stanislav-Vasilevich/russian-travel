@@ -7,7 +7,24 @@
   font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
   background-color: #2A2C2F;
   max-width: 1280px;
-  height: 520px;
   margin: 0 auto;
   color: #FFFFFF;
+}
+
+@media (max-width: 1024px) {
+  .intro {
+    
+  }
+}
+
+@media (max-width: 768px) {
+  .intro {
+    
+  }
+}
+
+@media (max-width: 320px) {
+  .intro {
+    
+  }
 }
