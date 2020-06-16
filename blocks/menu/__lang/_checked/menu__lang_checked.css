@@ -1,0 +1,7 @@
+.menu__lang_checked [type=radio]:checked + span {
+  text-decoration: underline;
+}
+
+.menu__lang_checked span:hover {
+  opacity: .8;
+}
