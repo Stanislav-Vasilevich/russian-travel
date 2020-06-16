@@ -12,26 +12,26 @@
   margin: 0 auto 68px;
 }
 
-@media (max-width: 1024px) {
+@media screen and (max-width: 1280px) {
   .cover {
     max-width: 1024px;
     height: 640px;
   }
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .cover {
     max-width: 768px;
     height: 480px;
     padding: 16px 0 0 0;
-    margin: 0 0 64px 0;
+    margin: 0 auto 64px;
   }
 }
 
-@media (max-width: 320px) {
+@media screen and (max-width: 768px) {
   .cover {
     width: 320px;
     height: 200px;
-    padding: 0;
+    padding: 16px 0 0 0;
   }
 }
