@@ -1,6 +1,6 @@
-@import url('./_active/menu__lang_active.css');
+@import url('./_active/header__lang_active.css');
 
-.menu__lang {
+.header__lang {
   cursor: pointer;
   display: flex;
   list-style: none;
@@ -13,7 +13,7 @@
 }
 
 @media screen and (max-width: 768px) {
-  .menu__lang {
+  .header__lang {
     font-size: 18px;
     line-height: 24px;  
   }
