@@ -1,12 +1,15 @@
-@import url('./_checked/menu__lang_checked.css');
+@import url('./_active/menu__lang_active.css');
 
 .menu__lang {
   cursor: pointer;
+  display: flex;
+  list-style: none;
   line-height: 28px;
   font-size: 24px;
   font-weight: normal;
   font-style: normal;
-  margin: 0 0 0 18px;
+  margin: 0;
+  padding: 0;
 }
 
 @media screen and (max-width: 768px) {

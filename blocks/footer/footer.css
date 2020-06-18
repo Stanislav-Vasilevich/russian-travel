@@ -28,8 +28,8 @@
 
 @media screen and (max-width: 768px) {
   .footer {
-    display: block;
-    min-height: 334px;
+    flex-direction: column;
+    align-items: flex-start;
     max-width: 288px;
   }
 }
