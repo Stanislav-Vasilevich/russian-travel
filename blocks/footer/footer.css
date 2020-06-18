@@ -4,7 +4,7 @@
 
 .footer {
   max-width: 1184px;
-  height: 66px;
+  min-height: 66px;
   background-color: #2A2C2F;
   color: #FFF;
   font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
