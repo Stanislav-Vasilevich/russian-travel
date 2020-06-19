@@ -11,8 +11,6 @@
 @media screen and (max-width: 1280px) {
   .place__title {
     width: 440px;
-    font-size: 72px;
-    line-height: 76px;
     margin: 0 32px 0 0;
   }
 }
@@ -31,7 +29,7 @@
     width: 288px;
     font-size: 32px;
     line-height: 35px;
-    margin: 0 auto 32px;
+    margin: 0 auto;
     padding: 0;
   }
 }
