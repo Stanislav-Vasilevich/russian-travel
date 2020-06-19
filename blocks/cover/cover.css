@@ -1,13 +1,13 @@
-@import url('./__overlay/cover__overlay.css');
+@import url('./__link/cover__link.css');
 @import url('./__title/cover__title.css');
 @import url('./__subtitle/cover__subtitle.css');
-@import url('./__background/cover__background.css');
+@import url('./__overlay/cover__overlay.css');
 
 .cover {
   max-width: 1184px;
   font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
   color: #FFF;
-  padding: 12px 0 0 0;
+  padding:0;
   margin: 0 auto 68px;
 }
 
@@ -28,6 +28,5 @@
 @media screen and (max-width: 768px) {
   .cover {
     max-width: 320px;
-    padding: 16px 0 0 0;
   }
 }
