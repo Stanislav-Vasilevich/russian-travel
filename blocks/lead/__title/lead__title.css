@@ -4,7 +4,7 @@
   line-height: 100px;
   font-weight: 900;
   font-style: normal;
-  width: 720px;
+  max-width: 720px;
   text-align: center;
   margin: 0 auto 32px;
   padding: 0;
