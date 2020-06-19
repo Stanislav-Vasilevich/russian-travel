@@ -4,6 +4,7 @@
   font-weight: normal;
   font-style: normal;
   color: #FFFFFF;
+  transition: .4s linear;
   padding: 0;
   margin: 0;
 }
