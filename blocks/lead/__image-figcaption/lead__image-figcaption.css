@@ -8,13 +8,13 @@
   padding-top: 8px;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1023px) {
   .lead__image-figcaption {
     margin: 0 0 0 24px;
   }
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 767px) {
   .lead__image-figcaption {
     margin: 0 0 0 16px;
   }

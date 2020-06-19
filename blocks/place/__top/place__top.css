@@ -4,7 +4,7 @@
   margin: 0 0 48px 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .place__top {
     margin: 0 0 32px 0;
   }

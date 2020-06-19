@@ -1,4 +1,4 @@
-.cover__link {
+  .cover__link {
   background-image: url('../../../images/cover/cover.jpg');
   background-size: cover;
   background-position: center;
@@ -11,19 +11,19 @@
   margin: 0 auto;
   }
   
-  @media (max-width: 1280px) {
+  @media (max-width: 1279px) {
     .cover__link {
       min-height: 640px;
     }
   }
   
-  @media (max-width: 1024px) {
+  @media (max-width: 1023px) {
     .cover__link {
       min-height: 480px;
     }
   }
   
-  @media (max-width: 768px) {
+  @media (max-width: 767px) {
     .cover__link {
       min-height: 200px;
     }

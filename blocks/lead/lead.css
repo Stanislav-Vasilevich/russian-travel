@@ -2,15 +2,17 @@
 @import url('./__subtitle/lead__subtitle.css');
 @import url('./__image/lead__image.css');
 @import url('./__image-figcaption/lead__image-figcaption.css');
+@import url('./__image-map/lead__image-map.css');
 
 .lead {
+  font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
   max-width: 984px;
   background-color: #2A2C2F;
   color: #FFFFFF;
   margin: 0 auto;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .lead {
     max-width: 928px;
   }

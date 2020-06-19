@@ -2,7 +2,7 @@
   margin: 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .footer__menu-item {
     margin: 0 0 32px 0;
   }
