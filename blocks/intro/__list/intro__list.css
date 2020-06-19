@@ -1,3 +1,5 @@
+@import url('./_font_weight/intro__list_font_weight.css');
+
 .intro__list {
   max-width: 690px;
   font-size: 12px;
