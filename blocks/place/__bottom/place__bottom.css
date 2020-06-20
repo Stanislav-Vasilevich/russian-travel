@@ -3,6 +3,10 @@
   margin: 0 auto 80px;
 }
 
+.place__bottom:last-of-type {
+  margin-bottom: 0;
+}
+
 @media screen and (max-width: 767px) {
   .place__bottom {
     flex-direction: column;
